@@ -2,7 +2,7 @@ var express = require('express');
 
 var router = express.Router();
 
-var WineController = require('../controllers/Wine');
+var WineController = require('../Controllers/Wine');
 
 router.get('/', WineController.Wine);
 router.get('/:id', WineController.GetWineById);

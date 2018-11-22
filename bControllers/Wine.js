@@ -1,4 +1,4 @@
-var Wine = require('../models/Wine');
+var Wine = require('../Models/Wine');
 
 exports.Wine = function(req, res){
     res.send('Hello?');
