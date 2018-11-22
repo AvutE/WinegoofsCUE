@@ -3,8 +3,8 @@ var express = require('express');
 var bodyParser = require('body-parser');
 
 // Get Routes
-var Home = require('./routes/Home');
-var Wine = require('./routes/Wine');
+var Home = require('./routes/home');
+var Wine = require('./routes/wine');
 
 // Get DB Connect (is in models)
 
