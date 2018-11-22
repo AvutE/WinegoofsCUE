@@ -18,9 +18,7 @@ app.use('/Wine', Wine);
 // Get a PORT
 var PORT = process.env.PORT || 4242;
 
-
 // Start web server
-
 app.listen(PORT, function(){
     console.log('Server is running, better go catch it!!');
 });
