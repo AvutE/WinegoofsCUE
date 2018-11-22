@@ -6,10 +6,10 @@ var router = express.Router();
 
 // Get home controller
 
-var HomeController = require('../Controllers/Home');
+var HomeController = require('../controllers/Home');
 
 // Set up default Route '/' 
-router.get('/', HomeController.Index);
+router.get('/', HomeController.index);
 
 // export
 module.exports = router;
