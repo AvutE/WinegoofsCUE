@@ -6,7 +6,7 @@ mongoose.Promise = global.Promise;
 
 mongoose.connect(db_url, {useNewUrlParser: true})
     .then(function(){
-            console.log('Connected to mLab MongoDB');
+        console.log('Connected to mLab MongoDB');
     })
     .catch(function(error){
         console.log('Error connecting to mLab MongoDB');
