@@ -4,6 +4,7 @@ var bodyParser = require('body-parser');
 
 // Get Routes
 var Home = require('./routes/Home');
+//Fungerar utan denna - måste lägga in Home i Wine och ta bort Home
 var Wine = require('./routes/Wine');
 
 // Get DB Connect (is in models)
@@ -18,6 +19,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 
 // Set up Routes
 app.use('/', Home);
+app.use('/Wine', Wine);
 
 // Static folder for scrips, css etc
 app.use(express.static('public'));
