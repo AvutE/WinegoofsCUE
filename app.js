@@ -18,6 +18,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 
 // Set up Routes
 app.use('/', Home);
+app.use('/Wine', Wine);
 
 // Static folder for scrips, css etc
 app.use(express.static('public'));
