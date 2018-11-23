@@ -10,9 +10,8 @@ Project details are listed in the link below.
 
 ## Get the project on your machine
 Start by making a new directory.
-'''bash
-mkdir "name of directory"
-'''
+
+'Inline code'mkdir "name of directory"
 
 Then go ahead to clone project.
 '''bash
