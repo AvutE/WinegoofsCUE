@@ -11,17 +11,16 @@ Project details are listed in the link below.
 ## Get the project on your machine
 Start by making a new directory.
 
-'Inline code'mkdir "name of directory"
+`mkdir "name of directory"`
 
 Then go ahead to clone project.
-'''bash
-git clone https://github.com/AvutE/WinegoofsCUE.git
-'''
+
+`git clone https://github.com/AvutE/WinegoofsCUE.git`
 
 To start the server type.
-'''bash
-node App.js
-'''
+
+`node App.js`
+
 
 To open the site localy on your machine type : localhost/4242
 
