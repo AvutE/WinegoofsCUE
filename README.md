@@ -2,9 +2,13 @@
 
 ## Project Description
 We are making a website for Winegoofs, a startup that wants wine to become less dandy and easier to understand and enjoy.
-On the site itself you will be able to buy and learn more about wine.
+On the site itself you will be able to:
+- Browse through wines.
+- Learn more about wine.
+- Buy and rate wine.
 
-We want they site to have a "Slack" feeling, simple and cozy.
+
+We want they site to have a "Slack" feeling, simple and cozy. (as few pages as possible)
 Project details are listed in the link below.
 
 [project](https://github.com/herkommer/TE4-w47-Project)
