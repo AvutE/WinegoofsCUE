@@ -6,6 +6,7 @@ On the site itself you will be able to buy and learn more about wine.
 
 We want they site to have a "Slack" feeling, simple and cozy.
 Project details are listed in the link below.
+
 [project](https://github.com/herkommer/TE4-w47-Project)
 
 ## Get the project on your machine
